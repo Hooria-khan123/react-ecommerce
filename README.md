@@ -102,12 +102,12 @@ react-ecommerce/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   git clone https://github.com/Hooria-khan123/react-ecommerce
    ```
 
 2. **Go into the project folder**
    ```bash
-   cd YOUR-REPO-NAME
+   cd react-ecommerce
    ```
 
 3. **Install dependencies**
@@ -135,7 +135,7 @@ The optimized files are created in the `dist/` folder. To preview the production
 ```bash
 npm run preview
 ```
-
+---
 
 ## ⚠️ Notes
 
@@ -167,13 +167,7 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
-**Your Name**
-- GitHub: [hooria-khan123](https://github.com/your-username)
+**HOoria khan**
+- GitHub: [hooria-khan123](https://github.com/hooria-khan123)
